@@ -14,7 +14,7 @@
   display: none;
 }
 
-#wall + div#tag-4
+#wall + div.parent 
 {
   display: none;
 }
