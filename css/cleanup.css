@@ -4,4 +4,7 @@
   display: none;
 }
 
-#wall 
+#wall div[id^="tag"]
+{
+  display: none;
+}
