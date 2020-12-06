@@ -4,12 +4,12 @@
   display: none;
 }
 
-#wall div
+#wall + div
 {
   display: none;
 }
 
-#wall #tag-2, 
+#wall + #tag-2
 {
   display: none;
 }
