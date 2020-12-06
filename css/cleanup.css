@@ -19,7 +19,7 @@
   display: none;
 }
 
-#wall + div#tag-5
+#wall div[class="parent"] > div#tag-5
 {
   display: none;
 }
