@@ -9,7 +9,7 @@
   display: none;
 }
 
-#wall > div#tag-3[class="slick wicked"]
+#wall div#tag-2 + div#tag-3[class="slick wicked"]
 {
   display: none;
 }
